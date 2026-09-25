@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import '../../../app_config.dart';
 import '../../../model/deal_model.dart';
 import '../../../routes/routes.dart';
-import '../../shared_widget/the_network_image.dart';
+import '../../../widget/the_network_image.dart';
 
 /// Horizontal flash-sale rail.
 ///

@@ -4,8 +4,8 @@ import 'package:pull_to_refresh/pull_to_refresh.dart';
 
 import '../../app_config.dart';
 import '../../routes/routes.dart';
-import '../shared_widget/deal_card.dart';
-import '../shared_widget/shimmer_deal_card.dart';
+import '../../widget/deal_card.dart';
+import '../../widget/shimmer_deal_card.dart';
 import 'home_controller.dart';
 import 'widget/flash_deals_section.dart';
 

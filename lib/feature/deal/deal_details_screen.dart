@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 
 import '../../app_config.dart';
 import '../../model/deal_model.dart';
-import '../shared_widget/the_network_image.dart';
+import '../../widget/the_network_image.dart';
 import 'deal_details_controller.dart';
 
 class DealDetailsScreen extends GetView<DealDetailsController> {

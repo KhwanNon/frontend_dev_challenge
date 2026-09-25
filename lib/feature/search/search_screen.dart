@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../shared_widget/deal_card.dart';
+import '../../widget/deal_card.dart';
 import 'search_deals_controller.dart';
 
 class SearchScreen extends GetView<SearchDealsController> {

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../app_config.dart';
-import '../../model/deal_model.dart';
-import '../../routes/routes.dart';
+import '../app_config.dart';
+import '../model/deal_model.dart';
+import '../routes/routes.dart';
 import 'the_network_image.dart';
 
 /// Deal card used in the home feed and search results.

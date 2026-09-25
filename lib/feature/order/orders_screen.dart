@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../model/order_model.dart';
-import '../shared_widget/the_network_image.dart';
+import '../../widget/the_network_image.dart';
 import 'orders_controller.dart';
 import 'widget/pickup_countdown.dart';
 
